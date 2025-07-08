@@ -12,21 +12,7 @@
 
 ## 💡 About Me
 
-🙋 I'm a highly skilled **React.js/Next.js developer**, proficient in **Front-End and Full-Stack development**. My expertise spans across the **MERN stack**, enabling me to craft top-notch websites.
-
-I specialize in leveraging:
-- **React.js**, **Next.js**, **Node.js**, **Spring Boot**
-- **MongoDB**, **Express.js**, **PostgreSQL**
-- **ClerkAuth**, **NextAuth**, **Supabase**, **Prisma**, **Drizzle**
-- and **SurveyJS**
-
-to meet the dynamic needs of modern businesses.
-
-I thrive on building **high-quality**, **user-centric** applications that elevate user experiences and drive success.
-
-I work with UI libraries like:
-- **Material UI**, **ShadCn-UI**, **Tailwind CSS**, and **Ant Design**,  
-ensuring not just a website — but a **stunningly attractive**, **lightning-fast**, and **secure digital masterpiece**.
+🙋 I'm a highly skilled **React.js/Next.js developer**, proficient in **Front-End and Full-Stack development**. My expertise spans across the **MERN stack**, enabling me to craft top-notch websites. I specialize in leveraging **React.js**, **Next.js**, **Node.js**, **Spring Boot**, **MongoDB**, **Express.js**, **PostgreSQL**, **ClerkAuth**, **NextAuth**, **Supabase**, **Prisma**, **Drizzle**, and **SurveyJS** to meet the dynamic needs of modern businesses. I thrive on building **high-quality**, **user-centric** applications that elevate user experiences and drive success. I work with UI libraries like **Material UI**, **ShadCn-UI**, **Tailwind CSS**, and **Ant Design**, ensuring not just a website but a **stunningly attractive**, **lightning-fast**, and **secure digital masterpiece**.
 
 ---
 
