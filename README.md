@@ -78,7 +78,7 @@
 
 <!-- 📊 Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beharudin&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beharudin&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
