@@ -67,17 +67,18 @@
 
 ## 📂 GitHub Stats
 
-<!-- GitHub Stats -->
+<!-- 💻 GitHub Stats and Activity -->
 <div align="center">
-  <!-- Total Commits, PRs, etc. (from public + optionally private) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beharudin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <!-- Top languages used (only from public repos) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beharudin&layout=compact&langs_count=8&theme=radical"/>
+  <!-- Total Commits, PRs, etc. (includes private and all commits) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beharudin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Beharudin's GitHub stats" />
+
+  <!-- Top languages used in public repos -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beharudin&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
-<!-- Contribution Graph -->
+
+<!-- 📊 Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beharudin&theme=github-compact&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beharudin&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
