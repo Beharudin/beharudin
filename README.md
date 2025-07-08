@@ -12,16 +12,31 @@
 
 ## 💡 About Me
 
-🙋‍♂️ I'm a **highly skilled Full Stack Developer** specializing in modern web technologies to craft **secure**, **responsive**, and **high-performance** applications.
+🙋 I'm a highly skilled **React.js/Next.js developer**, proficient in **Front-End and Full-Stack development**. My expertise spans across the **MERN stack**, enabling me to craft top-notch websites.
 
-From front-end magic with **React/Next.js**, to powerful backends built with **Node.js** and **Spring Boot**, I architect digital experiences that not only **look amazing**, but **scale flawlessly**.
+I specialize in leveraging:
+- **React.js**, **Next.js**, **Node.js**, **Spring Boot**
+- **MongoDB**, **Express.js**, **PostgreSQL**
+- **ClerkAuth**, **NextAuth**, **Supabase**, **Prisma**, **Drizzle**
+- and **SurveyJS**
 
-✨ **You can expect:**
-- 🔐 Secure, scalable architectures
-- ⚡ Blazing-fast websites
-- 📱 Mobile-first responsive designs
-- 🧠 Clean code with modern best practices
-- 🧩 Reusable UI components & animations
+to meet the dynamic needs of modern businesses.
+
+I thrive on building **high-quality**, **user-centric** applications that elevate user experiences and drive success.
+
+I work with UI libraries like:
+- **Material UI**, **ShadCn-UI**, **Tailwind CSS**, and **Ant Design**,  
+ensuring not just a website — but a **stunningly attractive**, **lightning-fast**, and **secure digital masterpiece**.
+
+---
+
+🚀 **Get ready for a transformative experience!**
+
+✨ Here's what you'll receive:
+- ✔️ Fortified, robust websites ensuring total security  
+- ✔️ Lightning-fast loading speeds for boosted conversion rates  
+- ✔️ Seamlessly responsive, mobile-friendly products for all devices  
+- ✔️ A 100% Guarantee of absolute satisfaction
 
 ---
 
