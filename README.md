@@ -102,3 +102,4 @@ I’m always open to **collaborations**, **freelance opportunities**, and **inte
 ---
 
 ## 📌 Keywords & Tags
+React, Next.js, Redux, Tailwind, Spring Boot, Prisma, Supabase, Stripe, Drizzle ORM, MongoDB, PostgreSQL, JWT, ClerkAuth, Figma to Code, REST APIs, Full Stack, Developer Portfolio, Frontend Expert, Backend NodeJS Spring
