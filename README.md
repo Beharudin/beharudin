@@ -49,24 +49,7 @@
 - **Figma to Code**: Figma → React/Next.js → Production
 - **RESTful APIs**, **Axios**
 - **Stripe Payments Integration**
-
----
-
-## 📦 Project Motion & UI Philosophy
-
-> **"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs**
-
-### 🧭 Motion Guidelines
-- Use **Framer Motion** for subtle entrance/exit animations
-- Animate loading states with **skeletons or shimmer**
-- Smooth transitions for **modals**, **dropdowns**, and **form interactions**
-
-### 🎨 UI/UX Best Practices
-- **Atomic Design**: Build reusable components from atoms → organisms
-- Prioritize **accessibility (a11y)** with semantic HTML
-- **Light/Dark mode** support using Tailwind theming
-- **Mobile-first** design with responsive layouts
-
+  
 ---
 
 ## 🔥 Featured Skills
