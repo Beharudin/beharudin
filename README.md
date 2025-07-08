@@ -65,12 +65,20 @@
 
 ---
 
-## 📂 GitHub Stats & Projects
+## 📂 GitHub Stats
 
 <!-- Animated stats -->
+<!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <!-- Total Commits, PRs, etc. (from public + optionally private) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beharudin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <!-- Top languages used (only from public repos) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beharudin&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beharudin&theme=github-compact&area=true" />
 </div>
 
 ---
