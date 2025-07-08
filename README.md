@@ -94,10 +94,10 @@ From front-end magic with **React/Next.js**, to powerful backends built with **N
 
 I’m always open to **collaborations**, **freelance opportunities**, and **interesting projects**.
 
-📧 Email: `beharudin.dev@gmail.com`  
-🔗 Portfolio: [beharudin.vercel.app](https://beharudin.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/beharudin](https://linkedin.com/in/beharudin)  
-🌐 Twitter/X: [@beharudin_dev](https://twitter.com/beharudin_dev)
+📧 Email: `beharudinmm@gmail.com`  
+🌐 Portfolio: [beharudin-portfolio.onrender.com](https://beharudin-portfolio.onrender.com/)  
+💼 LinkedIn: [linkedin.com/in/beharudin-mohammed-66411921a](https://www.linkedin.com/in/beharudin-mohammed-66411921a)  
+🧑‍💻 Upwork: [upwork.com/freelancers/~01ea990ce4b4995fd3](https://www.upwork.com/freelancers/~01ea990ce4b4995fd3?mp_source=share)
 
 ---
 
