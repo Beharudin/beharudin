@@ -67,10 +67,11 @@
 
 ## 📂 GitHub Stats & Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beharudin&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beharudin&theme=radical" width="48%" />
-</p>
+<!-- Animated stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 ---
 
