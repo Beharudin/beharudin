@@ -67,7 +67,6 @@
 
 ## 📂 GitHub Stats
 
-<!-- Animated stats -->
 <!-- GitHub Stats -->
 <div align="center">
   <!-- Total Commits, PRs, etc. (from public + optionally private) -->
