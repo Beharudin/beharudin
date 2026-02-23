@@ -105,9 +105,23 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 ## 💬 Client Feedback
 
-⭐ *Solved complex frontend challenges faster than expected. Highly recommended.*  
-⭐ *Exceptional frontend developer with outstanding attention to detail.*  
-⭐ *Consistently delivers high-quality frontend development. Reliable and thorough.*
+⭐ **“Consistently delivers high-quality frontend work.”**  
+“We’ve worked with Behar on several projects and he consistently delivered high-quality frontend work. One of the most hardworking, honest, and reliable developers we’ve collaborated with. Highly recommended.”
+
+⭐ **“Solved a very complex issue in a short time.”**  
+“Beharudin is a talented, detail-oriented developer. He helped us solve a very complex issue within a short space of time. Awesome work—we’re looking forward to our next project.”
+
+⭐ **“Frontend + backend delivered on time.”**  
+“He developed my frontend UI and backend using React, Redux, Spring, Hibernate, and PostgreSQL, and successfully completed the project on time.”
+
+⭐ **“Communicative, reliable, and professional.”**  
+“Great to work with—sincere, hardworking, and very communicative throughout the project.”
+
+⭐ **“Exceptional attention to detail.”**  
+“Beharudin went above and beyond expectations. His attention to detail is outstanding, and he’s always professional and a pleasure to work with.”
+
+⭐ **“Quick to fix issues and easy to work with.”**  
+“He did a solid job on our React + Tailwind project. Any hiccups were addressed quickly, and communication was excellent. I’d gladly work with him again.”
 
 ---
 
