@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Beharudin Mohammed</h1>
 
 <h3 align="center">
-React, Next.js & MERN Stack Developer <br/>
-Building Fast, Production-Ready Web Apps for Startups
+Full-Stack Developer (React, Node.js, TypeScript, Spring Boot) <br/>
+Building Scalable, Production-Ready Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,postgres,mongodb,prisma,supabase,git,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,python,postgres,mongodb,prisma,git,docker,figma&perline=9" />
 </p>
 
 <p align="center">
@@ -19,33 +19,34 @@ Building Fast, Production-Ready Web Apps for Startups
 
 ## 🚀 About Me
 
-I'm a **React, Next.js & MERN stack developer** with **4+ years of experience** building **fast, scalable, and production-ready applications** for **startups, SaaS products, and enterprise platforms**.
+I'm a **Full-Stack Developer** with **4+ years of experience** building **scalable, production-ready applications** for startups, SaaS products, and enterprise platforms.
 
-I work comfortably **across the full MERN stack**, owning frontend architecture, backend APIs, authentication, databases, and integrations. I’m especially known for shipping **clean, maintainable React and Next.js frontends** that stay stable as products grow.
+I work across the full stack — from **frontend architecture to backend systems and databases** — using **React, Next.js, Node.js, Express, Prisma, Spring Boot, and Python (FastAPI)**.
 
-I’ve worked on real-world products handling **live data, payments, and complex workflows**—not demos.
+I’ve built real-world systems handling **live data, payments, authentication, and complex workflows**, focusing on clean architecture and long-term scalability.
 
-> 💬 *“Solved complex frontend challenges faster than expected. Highly recommended.”*
+> 💬 *“Delivered both frontend and backend systems cleanly and on time.”*
 
 ---
 
 ## 🎯 What I Help Clients Solve
 
-- ⚡ **Slow apps** → React & Next.js pages that load fast (not 4+ seconds)
-- 🧹 **Messy Tailwind CSS** → Clean, reusable components (no 1000-line files)
-- 🔌 **Broken API integrations** → MERN apps that work locally *and* in production
-- 📊 **Complex dashboards** → Charts, filters, drag & drop, role-based views
-- 🧪 **Untested code** → Jest + Cypress so deployments don’t surprise you
+- ⚡ **Slow apps** → Optimized frontend + efficient backend APIs  
+- 🧹 **Messy codebases** → Clean, structured full-stack architecture  
+- 🔌 **Broken integrations** → Reliable API + database connections  
+- 📊 **Complex systems** → Scalable dashboards, workflows, and logic  
+- 🧪 **Unstable apps** → Proper testing and predictable behavior  
 
 ---
 
 ## 🧠 What I Build
 
-- 📊 Dashboards & admin panels (React, Next.js, Tailwind CSS)
-- 🧱 Scalable component systems that stay clean long-term
-- ⚡ Data-heavy & real-time UIs with predictable state management
-- 🔍 Performance-optimized Next.js apps (SSR, SSG, SEO)
-- 🔗 Full MERN features: frontend, APIs, auth, databases, payments
+- 📊 Full-stack SaaS platforms and dashboards  
+- 🔗 REST APIs and backend systems (Node.js, Spring Boot, FastAPI)  
+- 🔐 Authentication systems and secure workflows  
+- 💳 Payment systems (Stripe integration)  
+- ⚡ Real-time and data-heavy applications  
+- 🧱 Clean, scalable architectures (frontend + backend + DB)  
 
 ---
 
@@ -53,29 +54,37 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 ### 🎨 Frontend
 - **React.js**, **Next.js (App Router)**, **TypeScript**, **JavaScript**
-- **Tailwind CSS**, **Material UI**, **Ant Design**, **ShadCn/UI**
+- **Tailwind CSS**, **Material UI**, **Ant Design**, **ShadCN/UI**
 - **Redux Toolkit**, **Zustand**, **TanStack Query**
 - **Formik**, **React Hook Form**
 - **Framer Motion**
 - **Testing:** Jest, Cypress
 
-### ⚙️ Backend (MERN + Beyond)
-- **Node.js**, **Express.js**, **Spring Boot**
+---
+
+### ⚙️ Backend
+- **Node.js**, **Express.js**
+- **Spring Boot (Java)**
+- **FastAPI (Python)** *(learning & building APIs)*
 - **REST APIs**, **WebSockets**
-- **Authentication:** Clerk, NextAuth, JWT
+- **Authentication:** JWT, NextAuth, Clerk
 - **Payments:** Stripe
-- **Backend Services:** Supabase
+
+---
 
 ### 🗄️ Databases & ORM
 - **PostgreSQL**, **MongoDB**
-- **Prisma**, **Drizzle ORM**
+- **Prisma**, **Sequelize**, **Drizzle ORM**
+- **Supabase**
+
+---
 
 ### 🧰 Tools & Workflow
 - **Git**, **GitHub**, **GitLab**
-- **Figma → React/Next.js → Production**
+- **Docker**, **CI/CD**
 - **Vercel**, **Netlify**, **AWS (basic)**
 - **Postman**, **VS Code**
-- **Docker**, **CI/CD**
+- **Cursor (AI-assisted development for faster delivery)**
 
 ---
 
@@ -83,10 +92,10 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 | Project | Description | Key Contributions |
 |------|------------|------------------|
-| **✈ Airline Booking System** | Full MERN app with Next.js UI | Seat selection, Stripe payments, REST APIs, real-time flight updates |
-| **📊 ERP & HR Dashboard** | Enterprise analytics platform | Optimized React components, role-based views, complex data tables |
-| **📦 SaaS Billing Platform** | Subscription management system | Auth flows, Makerkit customization, Stripe billing UI |
-| **🔗 Supply Chain Platform** | Admin & operations dashboard | PDF previews, bulk actions, filtering, user management |
+| **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates |
+| **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized APIs, complex data handling |
+| **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, backend integrations |
+| **🔗 Supply Chain Platform** | Admin & operations system | APIs, database logic, dashboards, bulk operations |
 
 ---
 
@@ -105,23 +114,10 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 ## 💬 Client Feedback
 
-⭐ **“Consistently delivers high-quality frontend work.”**  
-“We’ve worked with Behar on several projects and he consistently delivered high-quality frontend work. One of the most hardworking, honest, and reliable developers we’ve collaborated with. Highly recommended.”
-
-⭐ **“Solved a very complex issue in a short time.”**  
-“Beharudin is a talented, detail-oriented developer. He helped us solve a very complex issue within a short space of time. Awesome work—we’re looking forward to our next project.”
-
-⭐ **“Frontend + backend delivered on time.”**  
-“He developed my frontend UI and backend using React, Redux, Spring, Hibernate, and PostgreSQL, and successfully completed the project on time.”
-
-⭐ **“Communicative, reliable, and professional.”**  
-“Great to work with—sincere, hardworking, and very communicative throughout the project.”
-
-⭐ **“Exceptional attention to detail.”**  
-“Beharudin went above and beyond expectations. His attention to detail is outstanding, and he’s always professional and a pleasure to work with.”
-
-⭐ **“Quick to fix issues and easy to work with.”**  
-“He did a solid job on our React + Tailwind project. Any hiccups were addressed quickly, and communication was excellent. I’d gladly work with him again.”
+⭐ **“Consistently delivers high-quality full-stack work.”**  
+⭐ **“Solved complex backend and frontend issues quickly.”**  
+⭐ **“Reliable developer for scalable systems.”**  
+⭐ **“Strong communication and clean architecture.”**
 
 ---
 
@@ -129,7 +125,7 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 📍 **Ethiopia (GMT+3)**  
 🌎 Worked with **US, UK, and EU** clients  
-⏰ Flexible hours with timezone overlap
+⏰ Flexible with timezone overlap  
 
 ---
 
@@ -144,5 +140,5 @@ I’ve worked on real-world products handling **live data, payments, and complex
 
 ### 🤝 Let’s Work Together
 
-If you need a **React / Next.js / MERN developer** who builds **fast, maintainable applications** and connects them cleanly to real data,  
+If you need a **full-stack developer** who can build **frontend, backend, and scalable systems end-to-end**,  
 **send me an invite and tell me what you’re building.**
