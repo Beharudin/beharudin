@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Beharudin Mohammed</h1>
 
 <h3 align="center">
-Full-Stack Developer (React, Node.js, TypeScript, FastAPI) <br/>
-Building Scalable, Production-Ready Web Applications
+Full-Stack Developer (React, Node.js, TypeScript, FastAPI, Spring Boot) <br/>
+Building Scalable, Production-Ready End-to-End Systems
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,python,postgres,mongodb,prisma,git,docker,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,python,fastapi,postgres,mongodb,prisma,git,docker,figma&perline=9" />
 </p>
 
 <p align="center">
@@ -19,34 +19,34 @@ Building Scalable, Production-Ready Web Applications
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with **4+ years of experience** building **scalable, production-ready applications** for startups, SaaS products, and enterprise platforms.
+I'm a **Full-Stack Developer** with **4+ years of experience** building **scalable, production-ready end-to-end systems** — from frontend interfaces to backend architectures, APIs, and databases.
 
-I work across the full stack — from **frontend architecture to backend systems and databases** — using **React, Next.js, Node.js, Express, Prisma, Spring Boot, and Python (FastAPI)**.
+I work across the full stack using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, and Python**, designing systems that are clean, maintainable, and built for scale.
 
-I’ve built real-world systems handling **live data, payments, authentication, and complex workflows**, focusing on clean architecture and long-term scalability.
+I’ve built real-world applications handling **authentication, payments, real-time data, complex business logic, and high-traffic APIs**.
 
-> 💬 *“Delivered both frontend and backend systems cleanly and on time.”*
+> 💬 *“I design and deliver complete systems — frontend, backend, and everything in between.”*
 
 ---
 
 ## 🎯 What I Help Clients Solve
 
-- ⚡ **Slow apps** → Optimized frontend + efficient backend APIs  
-- 🧹 **Messy codebases** → Clean, structured full-stack architecture  
-- 🔌 **Broken integrations** → Reliable API + database connections  
-- 📊 **Complex systems** → Scalable dashboards, workflows, and logic  
-- 🧪 **Unstable apps** → Proper testing and predictable behavior  
+- ⚡ Slow applications → optimized full-stack performance (frontend + backend)  
+- 🧱 Broken architectures → clean, scalable system design  
+- 🔌 API & integration issues → robust backend services  
+- 📊 Complex workflows → structured full-stack solutions  
+- 🧪 Unstable systems → reliable, production-grade applications  
 
 ---
 
 ## 🧠 What I Build
 
 - 📊 Full-stack SaaS platforms and dashboards  
-- 🔗 REST APIs and backend systems (Node.js, Spring Boot, FastAPI)  
-- 🔐 Authentication systems and secure workflows  
+- 🔗 Scalable REST APIs (Node.js, FastAPI, Spring Boot)  
+- 🔐 Authentication & authorization systems  
 - 💳 Payment systems (Stripe integration)  
-- ⚡ Real-time and data-heavy applications  
-- 🧱 Clean, scalable architectures (frontend + backend + DB)  
+- ⚡ Real-time applications (WebSockets)  
+- 🧱 Clean architecture across frontend + backend + database  
 
 ---
 
@@ -64,8 +64,8 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 
 ### ⚙️ Backend
 - **Node.js**, **Express.js**
+- **FastAPI (Python)**  
 - **Spring Boot (Java)**
-- **FastAPI (Python)**
 - **REST APIs**, **WebSockets**
 - **Authentication:** JWT, NextAuth, Clerk
 - **Payments:** Stripe
@@ -79,7 +79,7 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 
 ---
 
-### 🧰 Tools & Workflow
+### 🧰 Tools & DevOps
 - **Git**, **GitHub**, **GitLab**
 - **Docker**, **CI/CD**
 - **Vercel**, **Netlify**, **AWS (basic)**
@@ -93,9 +93,9 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 | Project | Description | Key Contributions |
 |------|------------|------------------|
 | **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates |
-| **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized APIs, complex data handling |
-| **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, backend integrations |
-| **🔗 Supply Chain Platform** | Admin & operations system | APIs, database logic, dashboards, bulk operations |
+| **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized backend + frontend architecture |
+| **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, scalable backend services |
+| **🔗 Supply Chain Platform** | Admin system | Full-stack APIs, database design, dashboards, bulk operations |
 
 ---
 
@@ -112,19 +112,10 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 
 ---
 
-## 💬 Client Feedback
-
-⭐ **“Consistently delivers high-quality full-stack work.”**  
-⭐ **“Solved complex backend and frontend issues quickly.”**  
-⭐ **“Reliable developer for scalable systems.”**  
-⭐ **“Strong communication and clean architecture.”**
-
----
-
 ## 🌍 Availability & Location
 
 📍 **Ethiopia (GMT+3)**  
-🌎 Worked with **US, UK, and EU** clients  
+🌎 Worked with **US, UK, and EU clients**  
 ⏰ Flexible with timezone overlap  
 
 ---
@@ -138,7 +129,7 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 
 ---
 
-### 🤝 Let’s Work Together
+### 🤝 Let’s Build Something End-to-End
 
-If you need a **full-stack developer** who can build **frontend, backend, and scalable systems end-to-end**,  
-**send me an invite and tell me what you’re building.**
+If you need a **full-stack developer** who can design and build **complete systems (frontend + backend + database + deployment)**,  
+feel free to reach out.
