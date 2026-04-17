@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beharudin Mohammed</h1>
 
 <h3 align="center">
-Full-Stack Developer (React, Node.js, TypeScript, Spring Boot) <br/>
+Full-Stack Developer (React, Node.js, TypeScript, FastAPI) <br/>
 Building Scalable, Production-Ready Web Applications
 </h3>
 
@@ -65,7 +65,7 @@ I’ve built real-world systems handling **live data, payments, authentication, 
 ### ⚙️ Backend
 - **Node.js**, **Express.js**
 - **Spring Boot (Java)**
-- **FastAPI (Python)** *(learning & building APIs)*
+- **FastAPI (Python)**
 - **REST APIs**, **WebSockets**
 - **Authentication:** JWT, NextAuth, Clerk
 - **Payments:** Stripe
