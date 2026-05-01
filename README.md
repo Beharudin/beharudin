@@ -7,6 +7,8 @@ Building Scalable, Production-Ready End-to-End Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,python,fastapi,postgres,mongodb,prisma,git,docker,figma&perline=9" />
+  <br/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
 
 <p align="center">
@@ -21,7 +23,7 @@ Building Scalable, Production-Ready End-to-End Systems
 
 I'm a **Full-Stack Developer** with **4+ years of experience** building **scalable, production-ready end-to-end systems** — from frontend interfaces to backend architectures, APIs, and databases.
 
-I work across the full stack using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, and Python**, designing systems that are clean, maintainable, and built for scale.
+I work across the full stack using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, and Python**, designing systems that are clean, maintainable, and built for scale, with high-quality UI interactions using GSAP.
 
 I’ve built real-world applications handling **authentication, payments, real-time data, complex business logic, and high-traffic APIs**.
 
@@ -35,7 +37,8 @@ I’ve built real-world applications handling **authentication, payments, real-t
 - 🧱 Broken architectures → clean, scalable system design  
 - 🔌 API & integration issues → robust backend services  
 - 📊 Complex workflows → structured full-stack solutions  
-- 🧪 Unstable systems → reliable, production-grade applications  
+- 🧪 Unstable systems → reliable, production-grade applications
+- 🎨 Poor user experience → smooth, high-performance UI animations using GSAP
 
 ---
 
@@ -46,7 +49,8 @@ I’ve built real-world applications handling **authentication, payments, real-t
 - 🔐 Authentication & authorization systems  
 - 💳 Payment systems (Stripe integration)  
 - ⚡ Real-time applications (WebSockets)  
-- 🧱 Clean architecture across frontend + backend + database  
+- 🧱 Clean architecture across frontend + backend + database
+- 🎬 Interactive UIs with GSAP (animations, transitions, micro-interactions)
 
 ---
 
@@ -57,8 +61,8 @@ I’ve built real-world applications handling **authentication, payments, real-t
 - **Tailwind CSS**, **Material UI**, **Ant Design**, **ShadCN/UI**
 - **Redux Toolkit**, **Zustand**, **TanStack Query**
 - **Formik**, **React Hook Form**
-- **Framer Motion**
-- **Testing:** Jest, Cypress
+- **Framer Motion, GSAP**
+- **Testing: Jest, Cypress**
 
 ---
 
@@ -92,8 +96,8 @@ I’ve built real-world applications handling **authentication, payments, real-t
 
 | Project | Description | Key Contributions |
 |------|------------|------------------|
-| **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates |
-| **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized backend + frontend architecture |
+| **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates, GSAP UI interactions |
+| **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized backend + frontend architecture, smooth UI animations with GSAP |
 | **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, scalable backend services |
 | **🔗 Supply Chain Platform** | Admin system | Full-stack APIs, database design, dashboards, bulk operations |
 
