@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beharudin Mohammed</h1>
 
 <h3 align="center">
-Full-Stack Developer (React, Node.js, TypeScript, FastAPI, Spring Boot) <br/>
+Full-Stack Developer (React, Node.js, TypeScript, FastAPI, Spring Boot) & AI Agent Builder (Claude Agent SDK) <br/>
 Building Scalable, Production-Ready End-to-End Systems
 </h3>
 
@@ -9,6 +9,8 @@ Building Scalable, Production-Ready End-to-End Systems
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux,nodejs,express,spring,python,fastapi,postgres,mongodb,prisma,git,docker,figma&perline=9" />
   <br/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <p align="center">
@@ -25,9 +27,11 @@ I'm a **Full-Stack Developer** with **4+ years of experience** building **scalab
 
 I work across the full stack using **React, Next.js, Node.js, Express, FastAPI, Spring Boot, and Python**, designing systems that are clean, maintainable, and built for scale, with high-quality UI interactions using GSAP.
 
+I also build **AI agents with the Claude Agent SDK** — agents that read documents, call APIs through **custom tools and MCP servers**, and take real actions like sending emails or updating records, with guardrails such as scoped tool permissions, rules enforced in code, and human review before anything important goes out.
+
 I’ve built real-world applications handling **authentication, payments, real-time data, complex business logic, and high-traffic APIs**.
 
-> 💬 *“I design and deliver complete systems — frontend, backend, and everything in between.”*
+> 💬 *“I design and deliver complete systems — frontend, backend, AI, and everything in between.”*
 
 ---
 
@@ -37,6 +41,7 @@ I’ve built real-world applications handling **authentication, payments, real-t
 - 🧱 Broken architectures → clean, scalable system design  
 - 🔌 API & integration issues → robust backend services  
 - 📊 Complex workflows → structured full-stack solutions  
+- 🤖 Repetitive manual work → AI agents that handle it with human oversight  
 - 🧪 Unstable systems → reliable, production-grade applications
 - 🎨 Poor user experience → smooth, high-performance UI animations using GSAP
 
@@ -45,6 +50,8 @@ I’ve built real-world applications handling **authentication, payments, real-t
 ## 🧠 What I Build
 
 - 📊 Full-stack SaaS platforms and dashboards  
+- 🤖 AI agents with the Claude Agent SDK (custom tools, MCP servers, agent workflows)  
+- 💬 AI features inside SaaS apps (in-app assistants, automated support, data Q&A)  
 - 🔗 Scalable REST APIs (Node.js, FastAPI, Spring Boot)  
 - 🔐 Authentication & authorization systems  
 - 💳 Payment systems (Stripe integration)  
@@ -76,6 +83,14 @@ I’ve built real-world applications handling **authentication, payments, real-t
 
 ---
 
+### 🤖 AI & Agents
+- **Claude Agent SDK** (TypeScript)
+- **Anthropic API**
+- **MCP (Model Context Protocol)** — custom tools and in-process MCP servers
+- **Zod** for typed tool schemas
+
+---
+
 ### 🗄️ Databases & ORM
 - **PostgreSQL**, **MongoDB**
 - **Prisma**, **Sequelize**, **Drizzle ORM**
@@ -88,7 +103,7 @@ I’ve built real-world applications handling **authentication, payments, real-t
 - **Docker**, **CI/CD**
 - **Vercel**, **Netlify**, **AWS (basic)**
 - **Postman**, **VS Code**
-- **Cursor (AI-assisted development for faster delivery)**
+- **Claude Code**, **Cursor** (AI-assisted development for faster delivery)
 
 ---
 
@@ -96,6 +111,7 @@ I’ve built real-world applications handling **authentication, payments, real-t
 
 | Project | Description | Key Contributions |
 |------|------------|------------------|
+| **🤖 AI Job-Matching Agent** | Autonomous AI agent | Claude Agent SDK, custom MCP tools for job search and email, CV-based matching, tailored cover letter drafts, deduplication and eligibility rules enforced in code |
 | **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates, GSAP UI interactions |
 | **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized backend + frontend architecture, smooth UI animations with GSAP |
 | **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, scalable backend services |
@@ -135,5 +151,5 @@ I’ve built real-world applications handling **authentication, payments, real-t
 
 ### 🤝 Let’s Build Something End-to-End
 
-If you need a **full-stack developer** who can design and build **complete systems (frontend + backend + database + deployment)**,  
+If you need a **full-stack developer** who can design and build **complete systems (frontend + backend + database + deployment)** — or an **AI agent** that plugs into them —  
 feel free to reach out.
