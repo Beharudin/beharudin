@@ -112,7 +112,6 @@ I’ve built real-world applications handling **authentication, payments, real-t
 | Project | Description | Key Contributions |
 |------|------------|------------------|
 | **🤖 AI Job-Matching Agent** | Autonomous AI agent | Claude Agent SDK, custom MCP tools for job search and email, CV-based matching, tailored cover letter drafts, deduplication and eligibility rules enforced in code |
-| **✈ Airline Booking System** | Full-stack system | Seat selection, Stripe payments, backend APIs, real-time updates, GSAP UI interactions |
 | **📊 ERP & HR Dashboard** | Enterprise platform | Role-based dashboards, optimized backend + frontend architecture, smooth UI animations with GSAP |
 | **📦 SaaS Billing Platform** | Subscription system | Auth flows, Stripe billing, scalable backend services |
 | **🔗 Supply Chain Platform** | Admin system | Full-stack APIs, database design, dashboards, bulk operations |
@@ -151,5 +150,4 @@ I’ve built real-world applications handling **authentication, payments, real-t
 
 ### 🤝 Let’s Build Something End-to-End
 
-If you need a **full-stack developer** who can design and build **complete systems (frontend + backend + database + deployment)** — or an **AI agent** that plugs into them —  
-feel free to reach out.
+If you need a **full-stack developer** who can design and build **complete systems (frontend + backend + database + deployment)** — or an **AI agent** that plugs into them — feel free to reach out.
